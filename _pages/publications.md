@@ -8,6 +8,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Preprints
 
+"On the complexity of the optimal transport problem with graph-structured cost." \\
+**Jiaojiao Fan\***, Isabel Haasler\*, Johan Karlsson, Yongxin Chen.\\
+under review 2021.\\
+[[arXiv]](https://arxiv.org/abs/2110.00627)
+
 "Scalable Computation of Monge Maps with General Costs." \\
 **Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma\*, Yongxin Chen, Haomin Zhou.\\
 under review 2021.\\
