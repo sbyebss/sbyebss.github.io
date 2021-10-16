@@ -31,7 +31,6 @@ redirect_from:
 
 ## Awards & Honors
 
-- **SJTU Pacesetter Award** (Student Highest Honor in SJTU). 2018
 - **Tang Lixin Scholarship** (Top 0.5%). 2017
 - **China National Scholarship** (Top 2%). 2017, 2018
 - **Shanghai Outstanding Graduates** (Top 5%). 2019
