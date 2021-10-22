@@ -10,7 +10,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 "On the complexity of the optimal transport problem with graph-structured cost." \\
 **Jiaojiao Fan\***, Isabel Haasler\*, Johan Karlsson, Yongxin Chen.\\
-under review 2021.\\
+Neurips 2021 OTML workshop.\\
 [[arXiv]](https://arxiv.org/abs/2110.00627)
 
 "Scalable Computation of Monge Maps with General Costs." \\
