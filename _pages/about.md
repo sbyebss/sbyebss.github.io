@@ -16,4 +16,6 @@ Here is my [CV](http://sbyebss.github.io/files/Research_CV.pdf).
 
 ### Recent updates
 
+- Oct 2021: Two papers get accepted by Neurips 2021 OTML workshop.
+
 - May 2021: Paper: Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks accepted by ICML 2021 long talks!
