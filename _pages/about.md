@@ -19,3 +19,5 @@ Here is my [CV](http://sbyebss.github.io/files/Research_CV.pdf).
 - Oct 2021: Two papers get accepted by Neurips 2021 OTML workshop.
 
 - May 2021: Paper: Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks accepted by ICML 2021 long talks!
+
+- Oct 2020: I am awarded [Foundation of Data Science (IDEaS-TRIAD) Research Scholarship](https://ideas.gatech.edu/ideas-triad-research-scholarships-phd-students-and-postdocs).
