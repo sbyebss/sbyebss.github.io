@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-[My Curriculum Vitae, updated in 2021/10/05](http://sbyebss.github.io/files/Research_CV.pdf)
+[My Curriculum Vitae, updated in 2021/10](http://sbyebss.github.io/files/Research_CV.pdf)
 
 ## Education
 
