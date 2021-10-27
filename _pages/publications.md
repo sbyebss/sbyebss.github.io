@@ -28,7 +28,7 @@ under review 2021.\\
 "Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks." \\
 **Jiaojiao Fan**, Amirhossein Taghvaei, Yongxin Chen. \\
 International Conference on Machine Learning (_ICML_) 2021. <span style="color:red">_(long talk 3%)_</span>. \\
-[[arXiv]](https://arxiv.org/abs/2007.04462)
+[[PMLR]](https://proceedings.mlr.press/v139/fan21d.html)
 
 "Watch for failing Objects: What Inappropriate Compliance Reveals about Shared Mental Models in Autonomous Cars."\\
 Yosef Razin, Jack Gale, **Jiaojiao Fan**, Jaznae' Smith, Karen Feigh\\
