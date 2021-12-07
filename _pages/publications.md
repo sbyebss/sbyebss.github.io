@@ -8,6 +8,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 ## Preprints
 
+"Variational Wasserstein gradient flow." \\
+**Jiaojiao Fan\***, Amirhossein Taghvaei, Yongxin Chen.\\
+Neurips 2021 OTML workshop.\\
+[[arXiv]](https://arxiv.org/abs/2112.02424)
+
 "On the complexity of the optimal transport problem with graph-structured cost." \\
 **Jiaojiao Fan\***, Isabel Haasler\*, Johan Karlsson, Yongxin Chen.\\
 Neurips 2021 OTML workshop.\\
@@ -32,7 +37,8 @@ International Conference on Machine Learning (_ICML_) 2021. <span style="color:r
 
 "Watch for failing Objects: What Inappropriate Compliance Reveals about Shared Mental Models in Autonomous Cars."\\
 Yosef Razin, Jack Gale, **Jiaojiao Fan**, Jaznae' Smith, Karen Feigh\\
-Human Factors and Ergonomics Society (_HFES_) Annual Meeting 2021
+Human Factors and Ergonomics Society (_HFES_) Annual Meeting 2021\\
+[[SAGE Journals]](https://journals.sagepub.com/doi/abs/10.1177/1071181321651081)
 
 <!-- ## Non-peer reviewed academic content
 

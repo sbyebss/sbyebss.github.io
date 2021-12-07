@@ -12,7 +12,7 @@ redirect_from:
 
 My research interest lies in the interdisciplinary combination of optimal transport, high dimensional probability and machine learning with applications to provable machine learning and geometries on probability distributions.
 
-Here is my [CV](http://sbyebss.github.io/files/Research_CV.pdf).
+Here is my [CV](https://www.dropbox.com/s/m23oagcn5iezsbm/Research_CV.pdf?dl=0).
 
 ### Recent updates
 
