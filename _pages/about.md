@@ -16,7 +16,7 @@ Here is my [CV](https://www.dropbox.com/s/m23oagcn5iezsbm/Research_CV.pdf?dl=0).
 
 ### Recent updates
 
-- Jan 2022: Paper: [On the complexity of the optimal transport problem with graph-structured cost accepted](https://arxiv.org/abs/2110.00627) by AISTATS 2022!
+- Jan 2022: Paper: [On the complexity of the optimal transport problem with graph-structured cost](https://arxiv.org/abs/2110.00627) accepted by AISTATS 2022!
 
 - Dec 2021: I passed the qualifying exam.
 
