@@ -13,11 +13,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 Neurips 2021 OTML workshop.\\
 [[arXiv]](https://arxiv.org/abs/2112.02424)
 
-"On the complexity of the optimal transport problem with graph-structured cost." \\
-**Jiaojiao Fan\***, Isabel Haasler\*, Johan Karlsson, Yongxin Chen.\\
-Neurips 2021 OTML workshop.\\
-[[arXiv]](https://arxiv.org/abs/2110.00627)
-
 "Scalable Computation of Monge Maps with General Costs." \\
 **Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma\*, Yongxin Chen, Haomin Zhou.\\
 under review 2021.\\
@@ -29,6 +24,11 @@ under review 2021.\\
 [[arXiv]](https://arxiv.org/abs/2106.10568)
 
 ## Publications
+
+"On the complexity of the optimal transport problem with graph-structured cost." \\
+**Jiaojiao Fan\***, Isabel Haasler\*, Johan Karlsson, Yongxin Chen.\\
+AISTATS 2022.\\
+[[arXiv]](https://arxiv.org/abs/2110.00627)
 
 "Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks." \\
 **Jiaojiao Fan**, Amirhossein Taghvaei, Yongxin Chen. \\

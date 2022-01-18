@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-[My Curriculum Vitae, updated in 2021/12](https://www.dropbox.com/s/m23oagcn5iezsbm/Research_CV.pdf?dl=0)
+[My Curriculum Vitae](https://www.dropbox.com/s/m23oagcn5iezsbm/Research_CV.pdf?dl=0)
 
 ## Education
 
