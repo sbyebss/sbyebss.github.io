@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 "Variational Wasserstein gradient flow." \\
 **Jiaojiao Fan\***, Amirhossein Taghvaei, Yongxin Chen.\\
 Neurips 2021 OTML workshop.\\
-[[arXiv]](https://arxiv.org/abs/2112.02424)
+[[arXiv]](http://sbyebss.github.io/files/variational_gradient_flow.pdf)
 
 "Scalable Computation of Monge Maps with General Costs." \\
 **Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma\*, Yongxin Chen, Haomin Zhou.\\
