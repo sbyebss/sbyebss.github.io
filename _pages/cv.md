@@ -19,7 +19,7 @@ redirect_from:
   Jan. 2020 ~ Now  
   GPA: 4.0/4.0  
   Instructor: [Dr. Yongxin Chen](https://yongxin.ae.gatech.edu/)  
-  Courses: Deep Learning, Optimal Transport Theory, Nonlinear Optimization, Math Foundation Of ML, Machine Learning theory, Real Analysis I, High-Dim Probability and Statistics.
+  Courses: Deep Learning, NLP, Optimal Transport Theory, Nonlinear Optimization, Math Foundation Of ML, Machine Learning theory, Real Analysis I, High-Dim Probability and Statistics.
 
 - **B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University**  
   Sept. 2015 ~ July. 2019
