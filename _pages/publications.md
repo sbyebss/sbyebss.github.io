@@ -29,11 +29,14 @@ under review 2021.\\
 **Jiaojiao Fan\***, Isabel Haasler\*, Johan Karlsson, Yongxin Chen.\\
 AISTATS 2022.\\
 [[arXiv]](https://arxiv.org/abs/2110.00627)
+[[poster]](https://www.dropbox.com/s/jrmek22cu7v81hb/poster.pdf?dl=0)
 
 "Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks." \\
 **Jiaojiao Fan**, Amirhossein Taghvaei, Yongxin Chen. \\
 International Conference on Machine Learning (_ICML_) 2021. <span style="color:red">_(long talk 3%)_</span>. \\
 [[PMLR]](https://proceedings.mlr.press/v139/fan21d.html)
+[[poster]](https://www.dropbox.com/s/gn6ek0d6kc9aq5x/poster.pdf?dl=0)
+[[slides]](https://icml.cc/media/icml-2021/Slides/8951_qv4N7UL.pdf)
 
 "Watch for failing Objects: What Inappropriate Compliance Reveals about Shared Mental Models in Autonomous Cars."\\
 Yosef Razin, Jack Gale, **Jiaojiao Fan**, Jaznae' Smith, Karen Feigh\\
