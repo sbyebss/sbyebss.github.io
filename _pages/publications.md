@@ -12,6 +12,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 **Jiaojiao Fan\***, Amirhossein Taghvaei, Yongxin Chen.\\
 Neurips 2021 OTML workshop.\\
 [[arXiv]](http://sbyebss.github.io/files/variational_gradient_flow.pdf)
+[[slides]](http://sbyebss.github.io/files/2022_seminar_sildes.pdf)
 
 "Scalable Computation of Monge Maps with General Costs." \\
 **Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma\*, Yongxin Chen, Haomin Zhou.\\
