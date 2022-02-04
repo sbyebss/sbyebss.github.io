@@ -16,6 +16,8 @@ Here is my [CV](https://www.dropbox.com/s/m23oagcn5iezsbm/Research_CV.pdf?dl=0).
 
 ### Recent updates
 
+- Feb 2022: I presented [my research](http://sbyebss.github.io/files/2022_seminar_sildes.pdf) at Georgia Tech [ML student seminar](https://sites.google.com/view/ml-phd-student-seminar/home).
+
 - Jan 2022: Paper: [On the complexity of the optimal transport problem with graph-structured cost](https://arxiv.org/abs/2110.00627) accepted by AISTATS 2022!
 
 - Dec 2021: I passed the qualifying exam.
