@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=zse9JEwAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://www.semanticscholar.org/author/46693078">my Semantic Scholar profile</a>.</u>
 
 ## Preprints
 
