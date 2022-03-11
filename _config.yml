@@ -84,7 +84,8 @@ author:
   location: "Atlanta, USA"
   employer: "GaTech"
   # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "https://scholar.google.com/citations?user=zse9JEwAAAAJ&hl=en&oi=ao"
+  googlescholar: "https://www.semanticscholar.org/author/46693078"
+  # "https://scholar.google.com/citations?user=zse9JEwAAAAJ&hl=en&oi=ao"
   email: "jiaojiaofan@gatech.edu"
   # researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   # uri:
