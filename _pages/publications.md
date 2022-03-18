@@ -19,10 +19,10 @@ Neurips 2021 OTML workshop.\\
 under review 2021.\\
 [[arXiv]](https://arxiv.org/abs/2106.03812)
 
-"Stein particle filtering." \\
+<!-- "Stein particle filtering." \\
 **Jiaojiao Fan**, Amirhossein Taghvaei, Yongxin Chen.\\
 under review 2021.\\
-[[arXiv]](https://arxiv.org/abs/2106.10568)
+[[arXiv]](https://arxiv.org/abs/2106.10568) -->
 
 ## Publications
 
