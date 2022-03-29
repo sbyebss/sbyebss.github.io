@@ -16,14 +16,16 @@ Here is my [CV](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?d
 
 ### Recent updates
 
+- March 2022: One [paper](https://openreview.net/forum?id=rEnGR3VdDW5) gets accepted by [ICLR 2022 DGM4HSD workshop](https://deep-gen-struct.github.io/).
+
 - Feb 2022: I presented [my research](http://sbyebss.github.io/files/2022_seminar_sildes.pdf) at Georgia Tech [ML student seminar](https://sites.google.com/view/ml-phd-student-seminar/home).
 
 - Jan 2022: Paper: [On the complexity of the optimal transport problem with graph-structured cost](https://arxiv.org/abs/2110.00627) accepted by AISTATS 2022!
 
-- Dec 2021: I passed the qualifying exam.
+<!-- - Dec 2021: I passed the qualifying exam. -->
 
 - Oct 2021: Two papers get accepted by Neurips 2021 OTML workshop.
 
 - May 2021: Paper: [Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks](https://arxiv.org/abs/2007.04462) accepted by ICML 2021 long talks!
 
-- Oct 2020: I am awarded [Foundation of Data Science (IDEaS-TRIAD) Research Scholarship](https://ideas.gatech.edu/ideas-triad-research-scholarships-phd-students-and-postdocs).
+<!-- - Oct 2020: I am awarded [Foundation of Data Science (IDEaS-TRIAD) Research Scholarship](https://ideas.gatech.edu/ideas-triad-research-scholarships-phd-students-and-postdocs). -->

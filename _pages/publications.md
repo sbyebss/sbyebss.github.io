@@ -16,7 +16,7 @@ Neurips 2021 OTML workshop.\\
 
 "Scalable Computation of Monge Maps with General Costs." \\
 **Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma\*, Yongxin Chen, Haomin Zhou.\\
-under review 2021.\\
+ICLR 2022 DGM4HSD workshop.\\
 [[arXiv]](https://arxiv.org/abs/2106.03812)
 
 <!-- "Stein particle filtering." \\
