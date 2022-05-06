@@ -16,6 +16,8 @@ Here is my [CV](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?d
 
 ### Recent updates
 
+- May 2022: I'll start my summer research intern in [Microsoft Research, New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) this month. My mentor is [David Alvarez-Melis](https://dmelis.github.io/).
+
 - March 2022: One [paper](https://openreview.net/forum?id=rEnGR3VdDW5) gets accepted by [ICLR 2022 DGM4HSD workshop](https://deep-gen-struct.github.io/).
 
 - Feb 2022: I presented [my research](http://sbyebss.github.io/files/2022_seminar_sildes.pdf) at Georgia Tech [ML student seminar](https://sites.google.com/view/ml-phd-student-seminar/home).
