@@ -8,12 +8,6 @@ You can also find my articles on <u><a href="https://www.semanticscholar.org/aut
 
 ## Preprints
 
-"Variational Wasserstein gradient flow." \\
-**Jiaojiao Fan\***, Amirhossein Taghvaei, Yongxin Chen.\\
-Neurips 2021 OTML workshop.\\
-[[arXiv]](http://sbyebss.github.io/files/variational_gradient_flow.pdf)
-[[slides]](http://sbyebss.github.io/files/2022_seminar_sildes.pdf)
-
 "Scalable Computation of Monge Maps with General Costs." \\
 **Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma\*, Yongxin Chen, Haomin Zhou.\\
 ICLR 2022 DGM4HSD workshop.\\
@@ -25,6 +19,12 @@ under review 2021.\\
 [[arXiv]](https://arxiv.org/abs/2106.10568) -->
 
 ## Publications
+
+"Variational Wasserstein gradient flow." \\
+**Jiaojiao Fan\***, Qinsheng Zhang, Amirhossein Taghvaei, Yongxin Chen.\\
+ICML 2022.\\
+[[arXiv]](http://sbyebss.github.io/files/variational_gradient_flow.pdf)
+<!-- [[slides]](http://sbyebss.github.io/files/2022_seminar_sildes.pdf) -->
 
 "On the complexity of the optimal transport problem with graph-structured cost." \\
 **Jiaojiao Fan\***, Isabel Haasler\*, Johan Karlsson, Yongxin Chen.\\
