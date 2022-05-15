@@ -22,19 +22,19 @@ under review 2021.\\
 
 "Variational Wasserstein gradient flow." \\
 **Jiaojiao Fan**, Qinsheng Zhang, Amirhossein Taghvaei, Yongxin Chen.\\
-ICML 2022.\\
+ICML 2022. (19.8%)\\
 [[arXiv]](http://sbyebss.github.io/files/variational_gradient_flow.pdf)
 <!-- [[slides]](http://sbyebss.github.io/files/2022_seminar_sildes.pdf) -->
 
 "On the complexity of the optimal transport problem with graph-structured cost." \\
 **Jiaojiao Fan\***, Isabel Haasler\*, Johan Karlsson, Yongxin Chen.\\
-AISTATS 2022.\\
+AISTATS 2022. (29.8%) \\
 [[arXiv]](https://arxiv.org/abs/2110.00627)
 [[poster]](https://www.dropbox.com/s/jrmek22cu7v81hb/poster.pdf?dl=0)
 
 "Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks." \\
 **Jiaojiao Fan**, Amirhossein Taghvaei, Yongxin Chen. \\
-International Conference on Machine Learning (_ICML_) 2021. <span style="color:red">_(long talk 3%)_</span>. \\
+ICML 2021. <span style="color:red">_(long talk 3%)_</span>. \\
 [[PMLR]](https://proceedings.mlr.press/v139/fan21d.html)
 [[poster]](https://www.dropbox.com/s/gn6ek0d6kc9aq5x/poster.pdf?dl=0)
 [[slides]](https://icml.cc/media/icml-2021/Slides/8951_qv4N7UL.pdf)
