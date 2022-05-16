@@ -22,7 +22,7 @@ under review 2021.\\
 
 "Variational Wasserstein gradient flow." \\
 **Jiaojiao Fan**, Qinsheng Zhang, Amirhossein Taghvaei, Yongxin Chen.\\
-ICML 2022. (19.8%)\\
+ICML 2022. (21.9%)\\
 [[arXiv]](http://sbyebss.github.io/files/variational_gradient_flow.pdf)
 <!-- [[slides]](http://sbyebss.github.io/files/2022_seminar_sildes.pdf) -->
 
