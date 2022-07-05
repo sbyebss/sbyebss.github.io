@@ -16,9 +16,9 @@ Here is my [CV](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?d
 
 ### Recent updates
 
-- May 2022: The paper [Variational Wasserstein gradient flow](http://sbyebss.github.io/files/variational_gradient_flow.pdf) gets accepted by ICML 2022!
+- May 2022: The paper [Variational Wasserstein gradient flow](http://sbyebss.github.io/files/variational_gradient_flow.pdf) gets accepted by ICML 2022! The code is also published on [github](https://github.com/sbyebss/variational_wgf).
 
-- May 2022: I'll start my summer research intern in [Microsoft Research, New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) this month. My mentor is [David Alvarez-Melis](https://dmelis.github.io/).
+- May 2022: I started my research intern in [Microsoft Research, New England](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england/) this month. My mentor is [David Alvarez-Melis](https://dmelis.github.io/).
 
 - March 2022: One [paper](https://openreview.net/forum?id=rEnGR3VdDW5) gets accepted by [ICLR 2022 DGM4HSD workshop](https://deep-gen-struct.github.io/).
 
