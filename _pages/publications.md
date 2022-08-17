@@ -8,15 +8,15 @@ You can also find my articles on <u><a href="https://www.semanticscholar.org/aut
 
 ## Preprints
 
+"Nesterov smoothing for sampling without smoothness." \\
+**Jiaojiao Fan\***, Bo Yuan, Jiaming Liang, Yongxin Chen.\\
+under review.\\
+[[arXiv]](https://arxiv.org/pdf/2208.07459)
+
 "Scalable Computation of Monge Maps with General Costs." \\
 **Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma\*, Yongxin Chen, Haomin Zhou.\\
 ICLR 2022 DGM4HSD workshop.\\
 [[arXiv]](https://arxiv.org/abs/2106.03812)
-
-<!-- "Stein particle filtering." \\
-**Jiaojiao Fan**, Amirhossein Taghvaei, Yongxin Chen.\\
-under review 2021.\\
-[[arXiv]](https://arxiv.org/abs/2106.10568) -->
 
 ## Publications
 
@@ -24,6 +24,7 @@ under review 2021.\\
 **Jiaojiao Fan**, Qinsheng Zhang, Amirhossein Taghvaei, Yongxin Chen.\\
 ICML 2022. (21.9%)\\
 [[arXiv]](http://sbyebss.github.io/files/variational_gradient_flow.pdf)
+
 <!-- [[slides]](http://sbyebss.github.io/files/2022_seminar_sildes.pdf) -->
 
 "On the complexity of the optimal transport problem with graph-structured cost." \\
