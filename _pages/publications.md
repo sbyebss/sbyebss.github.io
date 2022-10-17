@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="https://www.semanticscholar.org/aut
 ## Preprints
 
 "Nesterov smoothing for sampling without smoothness." \\
-**Jiaojiao Fan**, Bo Yuan, Jiaming Liang, Yongxin Chen.\\
+**Jiaojiao Fan\***, Bo Yuan, Jiaming Liang, Yongxin Chen.\\
 under review.\\
 [[arXiv]](https://arxiv.org/pdf/2208.07459)
 
