@@ -10,7 +10,7 @@ You can also find my articles on <u><a href="https://www.semanticscholar.org/aut
 
 "Generating Synthetic Datasets by Interpolating along Generalized Geodesics." \\
 **Jiaojiao Fan**, David Alvarez-Melis.\\
-under review.\\
+NeurIPS 2022 Workshop SyntheticData4ML.\\
 [[openreview]](https://openreview.net/forum?id=NNvpIQqsjtD)
 
 "Nesterov smoothing for sampling without smoothness." \\
