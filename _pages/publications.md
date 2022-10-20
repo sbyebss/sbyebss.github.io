@@ -8,13 +8,18 @@ You can also find my articles on <u><a href="https://www.semanticscholar.org/aut
 
 ## Preprints
 
+"Generating Synthetic Datasets by Interpolating along Generalized Geodesics." \\
+**Jiaojiao Fan**, David Alvarez-Melis.\\
+under review.\\
+[[openreview]](https://openreview.net/forum?id=NNvpIQqsjtD)
+
 "Nesterov smoothing for sampling without smoothness." \\
-**Jiaojiao Fan\***, Bo Yuan, Jiaming Liang, Yongxin Chen.\\
+**Jiaojiao Fan**, Bo Yuan, Jiaming Liang, Yongxin Chen.\\
 under review.\\
 [[arXiv]](https://arxiv.org/pdf/2208.07459)
 
 "Scalable Computation of Monge Maps with General Costs." \\
-**Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma\*, Yongxin Chen, Haomin Zhou.\\
+**Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma, Yongxin Chen, Haomin Zhou.\\
 ICLR 2022 DGM4HSD workshop.\\
 [[arXiv]](https://arxiv.org/abs/2106.03812)
 
