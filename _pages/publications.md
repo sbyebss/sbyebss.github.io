@@ -8,6 +8,11 @@ You can also find my articles on <u><a href="https://www.semanticscholar.org/aut
 
 ## Preprints
 
+"Improved dimension dependence of a proximal algorithm for sampling."\\
+**Jiaojiao Fan\***, Bo Yuan\*, Yongxin Chen.\\
+under review.\\
+[[arXiv]](https://arxiv.org/abs/2302.10081)
+
 "Generating Synthetic Datasets by Interpolating along Generalized Geodesics." \\
 **Jiaojiao Fan**, David Alvarez-Melis.\\
 NeurIPS 2022 Workshop SyntheticData4ML.\\
