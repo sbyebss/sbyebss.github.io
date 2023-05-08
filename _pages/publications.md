@@ -13,11 +13,6 @@ You can also find my articles on <u><a href="https://www.semanticscholar.org/aut
 under review.\\
 [[arXiv]](https://arxiv.org/abs/2302.10081)
 
-"Generating Synthetic Datasets by Interpolating along Generalized Geodesics." \\
-**Jiaojiao Fan**, David Alvarez-Melis.\\
-NeurIPS 2022 Workshop SyntheticData4ML.\\
-[[openreview]](https://openreview.net/forum?id=NNvpIQqsjtD)
-
 "Nesterov smoothing for sampling without smoothness." \\
 **Jiaojiao Fan**, Bo Yuan, Jiaming Liang, Yongxin Chen.\\
 under review.\\
@@ -29,6 +24,11 @@ ICLR 2022 DGM4HSD workshop.\\
 [[arXiv]](https://arxiv.org/abs/2106.03812)
 
 ## Publications
+
+"Generating Synthetic Datasets by Interpolating along Generalized Geodesics." \\
+**Jiaojiao Fan**, David Alvarez-Melis.\\
+UAI 2023. (31.2%)\\
+[NeurIPS 2022 Workshop SyntheticData4ML]((https://openreview.net/forum?id=NNvpIQqsjtD)).
 
 "Variational Wasserstein gradient flow." \\
 **Jiaojiao Fan**, Qinsheng Zhang, Amirhossein Taghvaei, Yongxin Chen.\\
