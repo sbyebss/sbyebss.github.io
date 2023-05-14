@@ -29,6 +29,10 @@ redirect_from:
   Aug. 2019 ~ Oct. 2019
   Supervisor: [Prof. Naira Hovakimyan](http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/)
 
+- **Research intern in Microsoft Research, New England**  
+  May 2022 ~ Aug. 2022
+  Supervisor: David Alvarez-Melis
+
 ## Awards & Honors
 
 - **Tang Lixin Scholarship** (Top 0.5%). 2017
