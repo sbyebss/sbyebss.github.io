@@ -27,7 +27,7 @@ COLT 2023. (34.8%).\\
 
 "On a Class of Gibbs Sampling over Networks."\\
 Bo Yuan, Jiaojiao Fan, Jiaming Liang, Andre Wibisono, Yongxin Chen.\\
-COLT 2023. (34.8%).\\
+COLT 2023. (34.8%).
 
 "Generating Synthetic Datasets by Interpolating along Generalized Geodesics." \\
 **Jiaojiao Fan**, David Alvarez-Melis.\\
