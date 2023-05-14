@@ -8,11 +8,6 @@ You can also find my articles on <u><a href="https://www.semanticscholar.org/aut
 
 ## Preprints
 
-"Improved dimension dependence of a proximal algorithm for sampling."\\
-**Jiaojiao Fan\***, Bo Yuan\*, Yongxin Chen.\\
-under review.\\
-[[arXiv]](https://arxiv.org/abs/2302.10081)
-
 "Nesterov smoothing for sampling without smoothness." \\
 **Jiaojiao Fan**, Bo Yuan, Jiaming Liang, Yongxin Chen.\\
 under review.\\
@@ -24,6 +19,15 @@ ICLR 2022 DGM4HSD workshop.\\
 [[arXiv]](https://arxiv.org/abs/2106.03812)
 
 ## Publications
+
+"Improved dimension dependence of a proximal algorithm for sampling."\\
+**Jiaojiao Fan\***, Bo Yuan\*, Yongxin Chen.\\
+COLT 2023. (34.8%).\\
+[[arXiv]](https://arxiv.org/abs/2302.10081)
+
+"On a Class of Gibbs Sampling over Networks."\\
+Bo Yuan, Jiaojiao Fan, Jiaming Liang, Andre Wibisono, Yongxin Chen.\\
+COLT 2023. (34.8%).\\
 
 "Generating Synthetic Datasets by Interpolating along Generalized Geodesics." \\
 **Jiaojiao Fan**, David Alvarez-Melis.\\

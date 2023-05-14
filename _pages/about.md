@@ -16,6 +16,8 @@ Here is my [CV](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?d
 
 ### Recent updates
 
+- May 2023: The paper "Improved dimension dependence of a proximal algorithm for sampling" and "On a Class of Gibbs Sampling over Networks" get accepted by [COLT 2023](https://learningtheory.org/colt2023/)!
+
 - May 2023: The paper "Generating Synthetic Datasets by Interpolating along Generalized Geodesics" gets accepted by [UAI 2023](https://www.auai.org/uai2023/)!
 
 - Oct 2022: I am selected as the [Neurips 2022 Top Reviewer](https://neurips.cc/Conferences/2022/ProgramCommittee)!
