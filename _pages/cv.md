@@ -17,7 +17,6 @@ redirect_from:
 
 - **PhD in Machine Learning, Georgia Institute of Technology**  
   Jan. 2020 ~ Now  
-  GPA: 4.0/4.0  
   Instructor: [Dr. Yongxin Chen](https://yongxin.ae.gatech.edu/)  
   Courses: Deep Learning, NLP, Optimal Transport Theory, Nonlinear Optimization, Math Foundation Of ML, Machine Learning theory, Real Analysis I, High-Dim Probability and Statistics.
 
