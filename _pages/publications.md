@@ -29,6 +29,10 @@ COLT 2023. (34.8%).\\
 Bo Yuan, **Jiaojiao Fan**, Jiaming Liang, Andre Wibisono, Yongxin Chen.\\
 COLT 2023. (34.8%).
 
+"Markov chain Monte Carlo for Gaussian: A linear control perspective"\\
+Bo Yuan, **Jiaojiao Fan**, Yuqing Wang, Molei Tao, Yongxin Chen.\\
+IEEE Control Systems Letters (L-CSS) 2023.
+
 "Generating Synthetic Datasets by Interpolating along Generalized Geodesics." \\
 **Jiaojiao Fan**, David Alvarez-Melis.\\
 UAI 2023. (31.2%)\\
