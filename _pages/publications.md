@@ -17,7 +17,7 @@ under review.\\
 
 "Neural Monge Map estimation and its applications." \\
 **Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma, Haomin Zhou, Yongxin Chen.\\
-TMLR 2023 <span style="color:red">_(featured certificate)_</span>.\\
+[TMLR 2023](https://openreview.net/forum?id=2mZSlQscj3&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)) <span style="color:red">_(featured certificate)_</span>.\\
 ICLR 2022 DGM4HSD workshop.\\
 [[arXiv]](https://arxiv.org/abs/2106.03812)
 
@@ -37,7 +37,7 @@ IEEE Control Systems Letters (L-CSS) 2023.
 "Generating Synthetic Datasets by Interpolating along Generalized Geodesics." \\
 **Jiaojiao Fan**, David Alvarez-Melis.\\
 UAI 2023. (31.2%)\\
-[NeurIPS 2022 Workshop SyntheticData4ML]((https://openreview.net/forum?id=NNvpIQqsjtD)).
+[NeurIPS 2022 Workshop SyntheticData4ML](https://openreview.net/forum?id=NNvpIQqsjtD).
 
 "Variational Wasserstein gradient flow." \\
 **Jiaojiao Fan**, Qinsheng Zhang, Amirhossein Taghvaei, Yongxin Chen.\\
