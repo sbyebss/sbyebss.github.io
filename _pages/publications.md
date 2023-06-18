@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="https://www.semanticscholar.org/aut
 "Nesterov smoothing for sampling without smoothness." \\
 **Jiaojiao Fan**, Bo Yuan, Jiaming Liang, Yongxin Chen.\\
 under review.\\
-[[arXiv]](https://arxiv.org/pdf/2208.07459)
+[arXiv](https://arxiv.org/pdf/2208.07459)
 
 ## Publications
 
@@ -19,12 +19,12 @@ under review.\\
 **Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma, Haomin Zhou, Yongxin Chen.\\
 [TMLR 2023](https://openreview.net/forum?id=2mZSlQscj3&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)) <span style="color:red">_(featured certificate)_</span>.\\
 ICLR 2022 DGM4HSD workshop.\\
-[[arXiv]](https://arxiv.org/abs/2106.03812)
+[arXiv](https://arxiv.org/abs/2106.03812)
 
 "Improved dimension dependence of a proximal algorithm for sampling."\\
 **Jiaojiao Fan\***, Bo Yuan\*, Yongxin Chen.\\
 COLT 2023. (34.8%).\\
-[[arXiv]](https://arxiv.org/abs/2302.10081)
+[arXiv](https://arxiv.org/abs/2302.10081)
 
 "On a Class of Gibbs Sampling over Networks."\\
 Bo Yuan, **Jiaojiao Fan**, Jiaming Liang, Andre Wibisono, Yongxin Chen.\\
@@ -37,32 +37,32 @@ Bo Yuan, **Jiaojiao Fan**, Yuqing Wang, Molei Tao, Yongxin Chen.\\
 "Generating Synthetic Datasets by Interpolating along Generalized Geodesics." \\
 **Jiaojiao Fan**, David Alvarez-Melis.\\
 UAI 2023. (31.2%)\\
-[NeurIPS 2022 Workshop SyntheticData4ML](https://openreview.net/forum?id=NNvpIQqsjtD).
+[NeurIPS 2022 Workshop SyntheticData4ML](https://openreview.net/forum?id=NNvpIQqsjtD).\\
+[arXiv](https://arxiv.org/abs/2306.06866)
 
 "Variational Wasserstein gradient flow." \\
 **Jiaojiao Fan**, Qinsheng Zhang, Amirhossein Taghvaei, Yongxin Chen.\\
 ICML 2022. (21.9%)\\
-[[arXiv]](http://sbyebss.github.io/files/variational_gradient_flow.pdf)
+[arXiv](http://sbyebss.github.io/files/variational_gradient_flow.pdf)
 
 <!-- [[slides]](http://sbyebss.github.io/files/2022_seminar_sildes.pdf) -->
 
 "On the complexity of the optimal transport problem with graph-structured cost." \\
 **Jiaojiao Fan\***, Isabel Haasler\*, Johan Karlsson, Yongxin Chen.\\
 AISTATS 2022. (29.8%) \\
-[[arXiv]](https://arxiv.org/abs/2110.00627)
-[[poster]](https://www.dropbox.com/s/jrmek22cu7v81hb/poster.pdf?dl=0)
+[arXiv](https://arxiv.org/abs/2110.00627)\\
+[poster](https://www.dropbox.com/s/jrmek22cu7v81hb/poster.pdf?dl=0)
 
 "Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks." \\
 **Jiaojiao Fan**, Amirhossein Taghvaei, Yongxin Chen. \\
-ICML 2021. <span style="color:red">_(long talk 3%)_</span>. \\
-[[PMLR]](https://proceedings.mlr.press/v139/fan21d.html)
-[[poster]](https://www.dropbox.com/s/gn6ek0d6kc9aq5x/poster.pdf?dl=0)
-[[slides]](https://icml.cc/media/icml-2021/Slides/8951_qv4N7UL.pdf)
+[ICML 2021]((https://proceedings.mlr.press/v139/fan21d.html)). <span style="color:red">_(long talk 3%)_</span>. \\
+[poster](https://www.dropbox.com/s/gn6ek0d6kc9aq5x/poster.pdf?dl=0),
+[slides](https://icml.cc/media/icml-2021/Slides/8951_qv4N7UL.pdf)
 
 "Watch for failing Objects: What Inappropriate Compliance Reveals about Shared Mental Models in Autonomous Cars."\\
 Yosef Razin, Jack Gale, **Jiaojiao Fan**, Jaznae' Smith, Karen Feigh\\
 Human Factors and Ergonomics Society (_HFES_) Annual Meeting 2021\\
-[[SAGE Journals]](https://journals.sagepub.com/doi/abs/10.1177/1071181321651081)
+[SAGE Journals](https://journals.sagepub.com/doi/abs/10.1177/1071181321651081)
 
 <!-- ## Non-peer reviewed academic content
 
