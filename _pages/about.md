@@ -16,6 +16,8 @@ Here is my [CV](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?d
 
 ### Recent updates
 
+- June 2023: The paper "Neural Monge Map estimation and its applications" gets accepted by [TMLR 2023](https://openreview.net/forum?id=2mZSlQscj3&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions))!
+
 - May 2023: The papers "Improved dimension dependence of a proximal algorithm for sampling" and "On a Class of Gibbs Sampling over Networks" get accepted by [COLT 2023](https://learningtheory.org/colt2023/)!
 
 - May 2023: The paper "Generating Synthetic Datasets by Interpolating along Generalized Geodesics" gets accepted by [UAI 2023](https://www.auai.org/uai2023/)!

@@ -13,12 +13,13 @@ You can also find my articles on <u><a href="https://www.semanticscholar.org/aut
 under review.\\
 [[arXiv]](https://arxiv.org/pdf/2208.07459)
 
+## Publications
+
 "Neural Monge Map estimation and its applications." \\
-**Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma, Yongxin Chen, Haomin Zhou.\\
+**Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma, Haomin Zhou, Yongxin Chen.\\
+TMLR 2023 <span style="color:red">_(featured certificate)_</span>.\\
 ICLR 2022 DGM4HSD workshop.\\
 [[arXiv]](https://arxiv.org/abs/2106.03812)
-
-## Publications
 
 "Improved dimension dependence of a proximal algorithm for sampling."\\
 **Jiaojiao Fan\***, Bo Yuan\*, Yongxin Chen.\\
