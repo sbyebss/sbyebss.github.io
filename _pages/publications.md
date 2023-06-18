@@ -50,7 +50,7 @@ ICML 2022. (21.9%)\\
 "On the complexity of the optimal transport problem with graph-structured cost." \\
 **Jiaojiao Fan\***, Isabel Haasler\*, Johan Karlsson, Yongxin Chen.\\
 AISTATS 2022. (29.8%) \\
-[arXiv](https://arxiv.org/abs/2110.00627)\\
+[arXiv](https://arxiv.org/abs/2110.00627),
 [poster](https://www.dropbox.com/s/jrmek22cu7v81hb/poster.pdf?dl=0)
 
 "Scalable Computations of Wasserstein Barycenter via Input Convex Neural Networks." \\
