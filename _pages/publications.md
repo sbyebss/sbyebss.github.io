@@ -28,7 +28,8 @@ COLT 2023. (34.8%).\\
 
 "On a Class of Gibbs Sampling over Networks."\\
 Bo Yuan, **Jiaojiao Fan**, Jiaming Liang, Andre Wibisono, Yongxin Chen.\\
-COLT 2023. (34.8%).
+COLT 2023. (34.8%).\\
+[arXiv](https://arxiv.org/abs/2306.13801)
 
 "Markov chain Monte Carlo for Gaussian: A linear control perspective"\\
 Bo Yuan, **Jiaojiao Fan**, Yuqing Wang, Molei Tao, Yongxin Chen.\\
