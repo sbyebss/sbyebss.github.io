@@ -6,14 +6,19 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://www.semanticscholar.org/author/46693078">my Semantic Scholar profile</a>.</u>
 
-## Preprints
+<!-- ## Preprints
 
 "Nesterov smoothing for sampling without smoothness." \\
 **Jiaojiao Fan**, Bo Yuan, Jiaming Liang, Yongxin Chen.\\
 under review.\\
-[arXiv](https://arxiv.org/pdf/2208.07459)
+[arXiv](https://arxiv.org/pdf/2208.07459) -->
 
 ## Publications
+
+"Nesterov smoothing for sampling without smoothness." \\
+**Jiaojiao Fan**, Bo Yuan, Jiaming Liang, Yongxin Chen.\\
+IEEE CDC 2023.\\
+[arXiv](https://arxiv.org/pdf/2208.07459)
 
 "Neural Monge Map estimation and its applications." \\
 **Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma, Haomin Zhou, Yongxin Chen.\\

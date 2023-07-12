@@ -32,6 +32,10 @@ redirect_from:
   May 2022 ~ Aug. 2022
   Supervisor: David Alvarez-Melis
 
+- **Research intern in Snap Inc., Creative Vision Team**  
+  May 2023 ~ Aug. 2023
+  Supervisor: Jian Ren, Qing Jin, and Chaoyang Wang
+
 ## Awards & Honors
 
 - **Tang Lixin Scholarship** (Top 0.5%). 2017
