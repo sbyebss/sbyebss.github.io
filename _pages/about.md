@@ -16,7 +16,9 @@ Here is my [CV](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?d
 
 ### Recent updates
 
-- July 2023: The paper "[Nesterov smoothing for sampling without smoothness](https://arxiv.org/pdf/2208.07459)" gets accepted by [CDC 2023](https://cdc2023.ieeecss.org/)!
+- July 2023: I am selected to receive a Herbert P. Haley Fellowship award from Georgia Tech!
+
+- July 2023: The paper "[Nesterov smoothing for sampling without smoothness](https://arxiv.org/pdf/2208.07459)" gets accepted by  [CDC 2023](https://cdc2023.ieeecss.org/)!
 
 - June 2023: I am awarded [UAI 2023 scholarship](https://www.auai.org/uai2023/scholarships)!
 
