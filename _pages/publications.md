@@ -24,7 +24,8 @@ IEEE CDC 2023.\\
 **Jiaojiao Fan\***, Shu Liu\*, Shaojun Ma, Haomin Zhou, Yongxin Chen.\\
 [TMLR 2023](https://openreview.net/forum?id=2mZSlQscj3&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)) <span style="color:red">_(featured certificate)_</span>.\\
 ICLR 2022 DGM4HSD workshop.\\
-[arXiv](https://arxiv.org/abs/2106.03812)
+[arXiv](https://arxiv.org/abs/2106.03812),
+[video](https://www.youtube.com/watch?v=wIb2ZyieQPo&t=1s)
 
 "Improved dimension dependence of a proximal algorithm for sampling."\\
 **Jiaojiao Fan\***, Bo Yuan\*, Yongxin Chen.\\
