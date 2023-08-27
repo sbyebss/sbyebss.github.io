@@ -34,7 +34,7 @@ redirect_from:
 
 - **Research intern in Snap Inc., Creative Vision Team**  
   May 2023 ~ Aug. 2023
-  Supervisor: Jian Ren, Qing Jin, and Chaoyang Wang
+  Supervisor: Jian Ren
 
 ## Awards & Honors
 
