@@ -17,12 +17,11 @@ redirect_from:
 
 - **PhD in Machine Learning, Georgia Institute of Technology**  
   Jan. 2020 ~ Now  
-  Instructor: [Dr. Yongxin Chen](https://yongxin.ae.gatech.edu/)  
+  Advisor: [Dr. Yongxin Chen](https://yongxin.ae.gatech.edu/)  
   Courses: Deep Learning, NLP, Optimal Transport Theory, Nonlinear Optimization, Math Foundation Of ML, Machine Learning theory, Real Analysis I, High-Dim Probability and Statistics.
 
 - **B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University**  
   Sept. 2015 ~ July. 2019
-  GPA: 90.20/100 Rank: 3/152
 
 - **Research intern in Mechanical Engineering, University of Illinois at Urbana-Champaign**  
   Aug. 2019 ~ Oct. 2019
