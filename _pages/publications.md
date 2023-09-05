@@ -45,7 +45,8 @@ Bo Yuan, **Jiaojiao Fan**, Yuqing Wang, Molei Tao, Yongxin Chen.\\
 **Jiaojiao Fan**, David Alvarez-Melis.\\
 UAI 2023. (31.2%)\\
 [NeurIPS 2022 Workshop SyntheticData4ML](https://openreview.net/forum?id=NNvpIQqsjtD).\\
-[arXiv](https://arxiv.org/abs/2306.06866)
+[arXiv](https://arxiv.org/abs/2306.06866)\\
+[code](https://github.com/sbyebss/generalized_geodesic)
 
 "Variational Wasserstein gradient flow." \\
 **Jiaojiao Fan**, Qinsheng Zhang, Amirhossein Taghvaei, Yongxin Chen.\\

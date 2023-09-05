@@ -16,6 +16,8 @@ Here is my [CV](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?d
 
 ### Recent updates
 
+- Sep. 2023: The code for our UAI 2023 paper "Generating Synthetic Datasets by Interpolating along Generalized Geodesics" is published on [GitHub](https://github.com/sbyebss/generalized_geodesic)!
+
 - July 2023: I am selected to receive a Herbert P. Haley Fellowship award from Georgia Tech!
 
 - July 2023: The paper "[Nesterov smoothing for sampling without smoothness](https://arxiv.org/pdf/2208.07459)" gets accepted by  [CDC 2023](https://cdc2023.ieeecss.org/)!
