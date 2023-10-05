@@ -23,6 +23,8 @@ redirect_from:
 - **B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University**  
   Sept. 2015 ~ July. 2019
 
+## Experience
+
 - **Research intern in Mechanical Engineering, University of Illinois at Urbana-Champaign**  
   Aug. 2019 ~ Oct. 2019
   Supervisor: [Prof. Naira Hovakimyan](http://naira.mechse.illinois.edu/sciencex_teams/naira-hovakimyan/)
@@ -35,8 +37,13 @@ redirect_from:
   May 2023 ~ Aug. 2023
   Supervisor: Jian Ren
 
+- **Research intern in NVIDIA**  
+  Aug 2023 ~ Now
+
 ## Awards & Honors
 
-- **Tang Lixin Scholarship** (Top 0.5%). 2017
-- **China National Scholarship** (Top 2%). 2017, 2018
+- **Herbert P. Haley Fellowship, Georgia Tech**. 2023
+- **Neurips Top Reviewer**. 2022
 - **Shanghai Outstanding Graduates** (Top 5%). 2019
+- **China National Scholarship** (Top 2%). 2017, 2018
+- **Tang Lixin Scholarship** (Top 0.5%). 2017
