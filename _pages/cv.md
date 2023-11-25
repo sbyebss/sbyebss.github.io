@@ -39,6 +39,7 @@ redirect_from:
 
 - **Research intern in NVIDIA**  
   Aug 2023 ~ Now
+  Supervisor: Ting-Chun Wang and Ming-Yu Liu
 
 ## Awards & Honors
 
