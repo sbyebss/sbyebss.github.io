@@ -10,9 +10,11 @@ redirect_from:
 
 ​I am a fourth-year PhD candidate at Georgia Institute of Technology. My advisor is [Dr. Yongxin Chen](https://yongxin.ae.gatech.edu/). This is our lab website [FLAIR](https://flair.ae.gatech.edu/). Before this, I got my Bachelor degree from Shanghai Jiao Tong University (SJTU).
 
-My research interest lies in the interdisciplinary combination of optimal transport, high dimensional probability and machine learning with applications to provable machine learning and geometries on probability distributions.
+My research interest centers on the controllable generation within the field of generative AI.
 
 Here is my [CV](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?dl=0).
+
+<span style="color: red;">I'm on the job market for year 2023-2024!</span>
 
 ### Recent updates
 
