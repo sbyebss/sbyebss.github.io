@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-​I am a 5th-year PhD candidate at Georgia Institute of Technology. My advisor is [Dr. Yongxin Chen](https://yongxin.ae.gatech.edu/). This is our lab website [FLAIR](https://flair.ae.gatech.edu/). Before this, I got my Bachelor degree from Shanghai Jiao Tong University (SJTU).
+​I am a 5th-year PhD candidate at Georgia Institute of Technology. My advisor is [Dr. Yongxin Chen](https://yongxin.ae.gatech.edu/). Before this, I got my Bachelor degree from Shanghai Jiao Tong University (SJTU).
 
-My research interest centers on the controllable generation within the field of generative AI.
+My current research interest centers on the controllable generation within the field of generative AI.
 
 Here is my [CV](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?dl=0).
 
