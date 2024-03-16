@@ -14,9 +14,11 @@ My current research interest centers on the controllable generation within the f
 
 Here is my [CV](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?dl=0).
 
-<span style="color: red;">I'm on the job market for year 2023-2024!</span>
+<!-- <span style="color: red;">I'm on the job market for year 2023-2024!</span> -->
 
 ### Recent updates
+
+- March 2024: As part of my internship in NVIDIA, we collaborate with Refik Anadol Studio and fine-tune the Getty Images foundation model using their real nature data. [The generated images will be shown on GTC 2024!](https://blogs.nvidia.com/blog/ai-refik-anadol-gtc-2024/)
 
 - Dec. 2023: I passed the PhD proposal!
 
