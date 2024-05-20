@@ -22,7 +22,7 @@ Here is my [CV](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?d
 
 - March 2024: As part of my internship in NVIDIA, we collaborate with Refik Anadol Studio and fine-tune the Getty Images foundation model using their real nature data. [The generated images will be shown on GTC 2024!](https://blogs.nvidia.com/blog/ai-refik-anadol-gtc-2024/)
 
-- Dec. 2023: I passed the PhD proposal!
+<!-- - Dec. 2023: I passed the PhD proposal! -->
 
 - Sep. 2023: The code for our UAI 2023 paper "Generating Synthetic Datasets by Interpolating along Generalized Geodesics" is published on [GitHub](https://github.com/sbyebss/generalized_geodesic)!
 
