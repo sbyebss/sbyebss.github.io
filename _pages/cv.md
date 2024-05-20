@@ -38,8 +38,11 @@ redirect_from:
   Supervisor: Jian Ren
 
 - **Research intern in NVIDIA**  
-  Aug 2023 ~ Now
+  Aug 2023 ~ May 2024
   Supervisor: Ting-Chun Wang and Ming-Yu Liu
+
+- **Research Scientist in NVIDIA**  
+  May 2024 ~ Now
 
 ## Awards & Honors
 

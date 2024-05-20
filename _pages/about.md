@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-​I am a 5th-year PhD candidate at Georgia Institute of Technology. My advisor is [Dr. Yongxin Chen](https://yongxin.ae.gatech.edu/). Before this, I got my Bachelor degree from Shanghai Jiao Tong University (SJTU).
+​I am a 5th-year PhD candidate at Georgia Institute of Technology, and Research Scientist in NVIDIA. My advisor is [Dr. Yongxin Chen](https://yongxin.ae.gatech.edu/). Before this, I got my Bachelor degree from Shanghai Jiao Tong University (SJTU).
 
 My current research interest centers on the controllable generation within the field of generative AI.
 
@@ -17,6 +17,8 @@ Here is my [CV](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?d
 <!-- <span style="color: red;">I'm on the job market for year 2023-2024!</span> -->
 
 ### Recent updates
+
+- May 2024: I started as a Research Scientist in NVIDIA!
 
 - March 2024: As part of my internship in NVIDIA, we collaborate with Refik Anadol Studio and fine-tune the Getty Images foundation model using their real nature data. [The generated images will be shown on GTC 2024!](https://blogs.nvidia.com/blog/ai-refik-anadol-gtc-2024/)
 
