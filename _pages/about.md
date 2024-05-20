@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-​I am a 5th-year PhD candidate at Georgia Institute of Technology, and Research Scientist in NVIDIA. My advisor is [Dr. Yongxin Chen](https://yongxin.ae.gatech.edu/). Before this, I got my Bachelor degree from Shanghai Jiao Tong University (SJTU).
+​I am a 5th-year PhD candidate at Georgia Institute of Technology, and Research Scientist in NVIDIA. My advisor is [Prof. Yongxin Chen](https://yongxin.ae.gatech.edu/). Before this, I got my Bachelor degree from Shanghai Jiao Tong University (SJTU).
 
 My current research interest centers on the controllable generation within the field of generative AI.
 

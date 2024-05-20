@@ -17,7 +17,7 @@ redirect_from:
 
 - **PhD in Machine Learning, Georgia Institute of Technology**  
   Jan. 2020 ~ Now  
-  Advisor: [Dr. Yongxin Chen](https://yongxin.ae.gatech.edu/)  
+  Advisor: [Prof. Yongxin Chen](https://yongxin.ae.gatech.edu/)  
   Courses: Deep Learning, NLP, Optimal Transport Theory, Nonlinear Optimization, Math Foundation Of ML, Machine Learning theory, Real Analysis I, High-Dim Probability and Statistics.
 
 - **B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University**  
