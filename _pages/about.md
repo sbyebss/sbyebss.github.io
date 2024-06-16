@@ -12,7 +12,7 @@ redirect_from:
 
 My current research interest centers on the controllable generation within the field of generative AI.
 
-Here is my [CV](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?dl=0).
+Here is my [CV](https://drive.google.com/file/d/1EI3UbG6sHCsNS2Aae7pTctqv1gxWetUx/view?usp=sharing).
 
 <!-- <span style="color: red;">I'm on the job market for year 2023-2024!</span> -->
 

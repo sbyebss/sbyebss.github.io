@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-[My Curriculum Vitae](https://www.dropbox.com/s/7s4kudn2ngq1e2n/jiaojiao_full_CV.pdf?dl=0)
+[My Curriculum Vitae](https://drive.google.com/file/d/1EI3UbG6sHCsNS2Aae7pTctqv1gxWetUx/view?usp=sharing)
 
 ## Education
 
