@@ -17,11 +17,11 @@ under review.\\
 
 "RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance." \\
 **Jiaojiao Fan**, Haotian Xue, Qinsheng Zhang, Yongxin Chen.\\
-[arXiv 2024](https://arxiv.org/abs/2405.17661).\\
+[arXiv 2024](https://arxiv.org/abs/2405.17661).
 
 "A parallel framework for graphical optimal transport." \\
 **Jiaojiao Fan\***, Isabel Haasler\*, Qinsheng Zhang, Johan Karlsson, Yongxin Chen.\\
-arXiv 2024.\\
+arXiv 2024.
 
 "Nesterov smoothing for sampling without smoothness." \\
 **Jiaojiao Fan**, Bo Yuan, Jiaming Liang, Yongxin Chen.\\
