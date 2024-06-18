@@ -21,7 +21,7 @@ under review.\\
 
 "A parallel framework for graphical optimal transport." \\
 **Jiaojiao Fan\***, Isabel Haasler\*, Qinsheng Zhang, Johan Karlsson, Yongxin Chen.\\
-arXiv 2024.
+[arXiv 2024](https://arxiv.org/abs/2406.10849).
 
 "Nesterov smoothing for sampling without smoothness." \\
 **Jiaojiao Fan**, Bo Yuan, Jiaming Liang, Yongxin Chen.\\
