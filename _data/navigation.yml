@@ -12,8 +12,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "FLAIR lab"
-    url: "https://flair.ae.gatech.edu/#home"
+  # - title: "FLAIR lab"
+  #   url: "https://flair.ae.gatech.edu/#home"
 
   - title: "Notes"
     url: /notes/

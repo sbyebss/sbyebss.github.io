@@ -80,13 +80,13 @@ analytics:
 author:
   name: "Jiaojiao Fan"
   avatar: "head1.jpg"
-  bio: "PhD in machine learning"
-  location: "Atlanta, USA"
-  employer: "GaTech"
+  bio: "Research Scientist"
+  location: "Santa Clara, California, USA"
+  employer: "NVIDIA"
   # pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "https://www.semanticscholar.org/author/46693078"
+  googlescholar: "https://scholar.google.com/citations?user=zse9JEwAAAAJ&hl=en"
   # "https://scholar.google.com/citations?user=zse9JEwAAAAJ&hl=en&oi=ao"
-  email: "jiaojiaofan@gatech.edu"
+  email: "jiaojiaof@nvidia.com"
   # researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   # uri:
   # bitbucket:
