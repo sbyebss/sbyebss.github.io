@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-[My Curriculum Vitae](https://drive.google.com/file/d/1EI3UbG6sHCsNS2Aae7pTctqv1gxWetUx/view?usp=sharing)
+[My Curriculum Vitae](https://drive.google.com/file/d/1QLOp4squ9VLfoM5IgajOUvRcY6gG7Pjg/view?usp=drive_link)
 
 ## Education
 
