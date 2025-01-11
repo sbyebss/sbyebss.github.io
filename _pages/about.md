@@ -20,9 +20,13 @@ Here is my [CV](https://drive.google.com/file/d/1QLOp4squ9VLfoM5IgajOUvRcY6gG7Pj
 
 - January 2025: NVIDIA Cosmos world foundation model is released on [github](https://github.com/NVIDIA/Cosmos), and the paper is on [arXiv](https://arxiv.org/abs/2501.03575).
 
-- May 2024: I started as a Research Scientist in NVIDIA!
+- January 2025: [Thomas O. Cantrell](https://www.linkedin.com/in/thomasocantrell/) implemented RefDrop for a version of Automatic1111, check it out on [github](https://github.com/tocantrell/sd-refdrop)!
 
-- March 2024: As part of my internship in NVIDIA, we collaborate with Refik Anadol Studio and fine-tune the Getty Images foundation model using their real nature data. [The generated images will be shown on GTC 2024!](https://blogs.nvidia.com/blog/ai-refik-anadol-gtc-2024/)
+- September 2024: [RefDrop](https://arxiv.org/abs/2405.17661) gets accepted to NeurIPS 2024!
+
+<!-- - May 2024: I started as a Research Scientist in NVIDIA! -->
+
+<!-- - March 2024: As part of my internship in NVIDIA, we collaborate with Refik Anadol Studio and fine-tune the Getty Images foundation model using their real nature data. [The generated images will be shown on GTC 2024!](https://blogs.nvidia.com/blog/ai-refik-anadol-gtc-2024/) -->
 
 <!-- - Dec. 2023: I passed the PhD proposal! -->
 
