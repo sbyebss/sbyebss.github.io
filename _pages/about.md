@@ -18,6 +18,8 @@ Here is my [CV](https://drive.google.com/file/d/1QLOp4squ9VLfoM5IgajOUvRcY6gG7Pj
 
 ### Recent updates
 
+- January 2025: [Proximal Sampler with Adaptive Step Size](https://openreview.net/forum?id=DJZlkYL9Jb&referrer=%5Bthe%20profile%20of%20Bo%20Yuan%5D(%2Fprofile%3Fid%3D~Bo_Yuan8)) is accepted to AISTATS 2025!
+
 - January 2025: NVIDIA Cosmos world foundation model is released on [github](https://github.com/NVIDIA/Cosmos), and the paper is on [arXiv](https://arxiv.org/abs/2501.03575).
 
 - January 2025: [Thomas O. Cantrell](https://www.linkedin.com/in/thomasocantrell/) implemented RefDrop for a version of Automatic1111, check it out on [github](https://github.com/tocantrell/sd-refdrop)!
