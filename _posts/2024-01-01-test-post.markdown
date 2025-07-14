@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Test Post"
+date: 2024-01-01 12:00:00 +00:00
+categories: research
+author: "Test Author"
+---
+
+This is a test post to verify the template is working correctly. 
