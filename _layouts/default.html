@@ -58,30 +58,34 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:20px;">
+              <div style="margin-bottom:20px;">
                 <h2 style="margin:0;">News</h2>
-                <a href="#" style="color:#666;text-decoration:none;font-size:14px;">see all news →</a>
               </div>
               
               <div style="border-left:2px solid #f0f0f0;padding-left:20px;">
                 <div style="display:flex;margin-bottom:15px;">
-                  <div style="width:120px;flex-shrink:0;color:#666;font-size:14px;padding-right:20px;">Jan 11, 2025</div>
-                  <div style="flex:1;"><a href="https://www.nvidia.com/en-us/ai/cosmos/" style="color:#d9534f;text-decoration:none;">Cosmos Predict1</a> release! First open source large scale world model</div>
+                  <div style="width:120px;flex-shrink:0;color:#666;font-size:14px;padding-right:20px;">Jun 2025</div>
+                  <div style="flex:1;"><a href="https://research.nvidia.com/labs/dir/cosmos-predict2/" style="color:#0066cc;text-decoration:none;">Cosmos Predict2</a> release! SOTA world model for autonomous driving and robot arm manipulation.</div>
                 </div>
                 
                 <div style="display:flex;margin-bottom:15px;">
-                  <div style="width:120px;flex-shrink:0;color:#666;font-size:14px;padding-right:20px;">Dec 1, 2023</div>
-                  <div style="flex:1;">Graduated from <a href="https://www.gatech.edu/" style="color:#d9534f;text-decoration:none;">GaTech</a> and joined Nvidia as a research scientist working on NVIDIA GenAI, specifically <a href="https://www.nvidia.com/en-us/ai/picasso/" style="color:#d9534f;text-decoration:none;">Picasso</a>.</div>
+                  <div style="width:120px;flex-shrink:0;color:#666;font-size:14px;padding-right:20px;">Jan 2025</div>
+                  <div style="flex:1;"><a href="https://github.com/nvidia-cosmos/cosmos-predict1" style="color:#0066cc;text-decoration:none;">Cosmos Predict1</a> release! First open source large scale world model!</div>
                 </div>
                 
                 <div style="display:flex;margin-bottom:15px;">
-                  <div style="width:120px;flex-shrink:0;color:#666;font-size:14px;padding-right:20px;">May 16, 2022</div>
-                  <div style="flex:1;">ICML22 <a href="#" style="color:#d9534f;text-decoration:none;">Wasserstein gradient flow</a> in pixel space!</div>
+                  <div style="width:120px;flex-shrink:0;color:#666;font-size:14px;padding-right:20px;">Nov 2024</div>
+                  <div style="flex:1;"><a href="https://research.nvidia.com/labs/dir/edify-image/" style="color:#0066cc;text-decoration:none;">Edify image</a> paper was released! Photorealistic text-to-image generation with pixel-space laplacian pyramid diffusion.</div>
                 </div>
                 
                 <div style="display:flex;margin-bottom:15px;">
-                  <div style="width:120px;flex-shrink:0;color:#666;font-size:14px;padding-right:20px;">Apr 30, 2022</div>
-                  <div style="flex:1;">Training Free <a href="#" style="color:#d9534f;text-decoration:none;">DEIS</a> 10 steps to generate high-fidelity samples for diffusion model.</div>
+                  <div style="width:120px;flex-shrink:0;color:#666;font-size:14px;padding-right:20px;">Jul 2024</div>
+                  <div style="flex:1;">Graduated from <a href="https://www.gatech.edu/" style="color:#0066cc;text-decoration:none;">Georgia Tech</a> and joined Nvidia as a research scientist working on NVIDIA GenAI, specifically Edify text-to-image model post-training.</div>
+                </div>
+                
+                <div style="display:flex;margin-bottom:15px;">
+                  <div style="width:120px;flex-shrink:0;color:#666;font-size:14px;padding-right:20px;">May 2022</div>
+                  <div style="flex:1;">ICML22 <a href="https://arxiv.org/abs/2112.02424" style="color:#0066cc;text-decoration:none;">Wasserstein gradient flow</a> in pixel space is accepted!</div>
                 </div>
               </div>
             </td>
@@ -134,147 +138,14 @@
           {% endfor %}
           {% endfor %}
         </table>
-        <br>
-        <br>
-        <br>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr>
-            <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Intel Projects</h2>
-              <p>Besides my work on the RealSense depth sensors and the publications above, a sampling of my publicly disclosed work
-              </p>
-            </td>
-          </tr>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
-          {% for post in site.posts %}
-          {% for cat in post.categories %}
-          {% if cat == 'Intel' %}
-          <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-            </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>{{post.title}}</h3>
-              <br>
-              <em>{{post.categories}} {{post.course}}</em>
-              <br>
-              {{ post.date | date: "%Y-%m-%d" }}
-
-              <br>
-              {% if post.website %}
-              <a href="{{post.website}}">website</a> /
-              {% endif %}
-              {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
-              {% endif %}
-              {% if post.patent %}
-              <a href="{{post.patent}}">patent</a> /
-              {% endif %}
-              {% if post.patent2 %}
-              <a href="{{post.patent2}}">patent #2</a> /
-              {% endif %}
-              {% if post.patent3 %}
-              <a href="{{post.patent3}}">patent #3</a> /
-              {% endif %}
-              {% if post.video %}
-              <a href="{{post.video}}">video</a> /
-              {% endif %}
-              {% if post.video2 %}
-              <a href="{{post.video2}}">video #2</a> /
-              {% endif %}
-              {% if post.code %}
-              <a href="{{post.code}}">code</a> /
-              {% endif %}
-              {% if post.poster %}
-              <a href="{{post.poster}}">poster</a> /
-              {% endif %}
-              {% if post.slides %}
-              <a href="{{post.slides}}">slides</a> /
-              {% endif %}
-              <p></p>
-              {{ post.excerpt }}
-            </td>
-          </tr>
-          {% endif %}
-          {% endfor %}
-          {% endfor %}
-        </table>
-        <br>
-        <br>
-        <br>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr>
-            <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Other Projects</h2>
-              <p> These include coursework, side projects and unpublished research work. 
-              </p>
-            </td>
-          </tr>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-
-          {% for post in site.posts %}
-          {% for cat in post.categories %}
-          {% if cat != 'research' and cat != 'Intel' %}
-          <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-            </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>{{post.title}}</h3>
-              <br>
-              <em>{{post.categories}} {{post.course}}</em>
-              <br>
-              {{ post.date | date: "%Y-%m-%d" }}
-
-              <br>
-              {% if post.website %}
-              <a href="{{post.website}}">website</a> /
-              {% endif %}
-              {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
-              {% endif %}
-              {% if post.patent %}
-              <a href="{{post.patent}}">patent</a> /
-              {% endif %}
-              {% if post.patent2 %}
-              <a href="{{post.patent2}}">patent #2</a> /
-              {% endif %}
-              {% if post.patent3 %}
-              <a href="{{post.patent3}}">patent #3</a> /
-              {% endif %}
-              {% if post.video %}
-              <a href="{{post.video}}">video</a> /
-              {% endif %}
-              {% if post.video2 %}
-              <a href="{{post.video2}}">video #2</a> /
-              {% endif %}
-              {% if post.code %}
-              <a href="{{post.code}}">code</a> /
-              {% endif %}
-              {% if post.poster %}
-              <a href="{{post.poster}}">poster</a> /
-              {% endif %}
-              {% if post.slides %}
-              <a href="{{post.slides}}">slides</a> /
-              {% endif %}
-              <p></p>
-              {{ post.excerpt }}
-            </td>
-          </tr>
-          {% endif %}
-          {% endfor %}
-          {% endfor %}
-        </table>
 
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:0px">
               <br>
               <p style="text-align:center;font-size:small;">
-                Design and source code from <a style="font-size:small;" href="https://jonbarron.info">Jon Barron's website</a>
+                Design and source code from <a style="font-size:small;" href="https://leonidk.com/">Leonid Keselman's website</a>
               </p>
             </td>
           </tr>
