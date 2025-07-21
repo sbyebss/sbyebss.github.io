@@ -1,0 +1,13 @@
+---
+layout: post
+title: "RefDrop: Controllable Consistency in Image or Video Generation via Reference Feature Guidance"
+date: 2024-05-27 12:00:00 +00:00
+categories: research
+authors: "Jiaojiao Fan, Haotian Xue, Qinsheng Zhang, Yongxin Chen"
+venue: "NeurIPS"
+arxiv: "https://arxiv.org/abs/2405.17661"
+website: "https://sbyebss.github.io/refdrop/"
+image: "/images/refdrop.png"
+---
+
+RefDrop is a training-free method for controlling consistency in image and video generation via reference feature guidance. By manipulating attention modules in diffusion models, RefDrop enables consistent character generation, multiple subject blending, diverse content creation, and enhanced temporal consistency in videos - all without requiring additional training or separate image encoders

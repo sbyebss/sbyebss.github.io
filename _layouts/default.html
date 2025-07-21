@@ -137,6 +137,9 @@
               {% if post.website %}
               <a href="{{post.website}}">website</a> /
               {% endif %}
+              {% if post.keynote %}
+              <a href="{{post.keynote}}">{% if post.keynote_text %}{{post.keynote_text}}{% else %}keynote{% endif %}</a> /
+              {% endif %}
               {% if post.youtube %}
               <a href="{{post.youtube}}">youtube</a> /
               {% endif %}
