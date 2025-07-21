@@ -6,6 +6,7 @@ categories: research
 authors: "Jiaojiao Fan, Amirhossein Taghvaei, Yongxin Chen"
 venue: "ICML (long talk)"
 arxiv: "https://arxiv.org/abs/2007.04462"
+code: "https://github.com/sbyebss/Scalable-Wasserstein-Barycenter"
 image: "/images/barycenter.png"
 ---
 

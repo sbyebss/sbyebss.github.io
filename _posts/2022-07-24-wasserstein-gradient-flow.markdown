@@ -6,6 +6,7 @@ categories: research
 authors: "Jiaojiao Fan, Qinsheng Zhang, Amirhossein Taghvaei, Yongxin Chen"
 venue: "ICML"
 arxiv: "https://arxiv.org/abs/2112.02424"
+code: "https://github.com/sbyebss/variational_wgf"
 image: "/images/vwgf.png"
 ---
 
