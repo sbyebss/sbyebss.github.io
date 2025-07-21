@@ -13,4 +13,4 @@ keynote_text: "Jensen Huang keynote at CES2025"
 image: "/images/Cosmos1_teaser.gif"
 ---
 
-NVIDIA’s open-source video world model platform
+NVIDIA's open-source video world model platform for Physical AI represents a foundational breakthrough in world modeling. Cosmos enables developers to customize, and deploy world foundation models that can understand and predict physical interactions in video sequences

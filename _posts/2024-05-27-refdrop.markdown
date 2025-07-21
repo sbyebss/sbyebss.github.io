@@ -10,4 +10,4 @@ website: "https://sbyebss.github.io/refdrop/"
 image: "/images/refdrop.png"
 ---
 
-RefDrop is a training-free method for controlling consistency in image and video generation via reference feature guidance. By manipulating attention modules in diffusion models, RefDrop enables consistent character generation, multiple subject blending, diverse content creation, and enhanced temporal consistency in videos - all without requiring additional training or separate image encoders
+RefDrop is a training-free method for controlling consistency in image and video generation. By manipulating attention modules in diffusion models, RefDrop enables consistent character generation, multiple subject blending, diverse content creation, and enhanced temporal consistency in videos

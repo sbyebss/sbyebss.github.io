@@ -19,6 +19,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
@@ -43,6 +44,7 @@
                   During my NVIDIA internship, I developed customization capabilities for the <a href="https://research.nvidia.com/labs/dir/edify-image/">Edify</a> text-to-image generation model, which was successfully shipped as part of the Edify model family and deployed by enterprise clients for advertising applications. Edify customization enables extremely photorealistic image generation for human personalization tasks (e.g., from <a href="https://research.nvidia.com/labs/dir/edify-image/images/finetuning/fangyin/reference.jpg">reference photo</a> to <a href="https://research.nvidia.com/labs/dir/edify-image/images/finetuning/fangyin/31897b.jpeg">customized output</a>).
                 </p>
                 <p style="text-align:center">
+                <a href="/pdfs/research_cv.pdf" target="_blank">CV</a> &nbsp;/&nbsp;
                 <a target="_blank" href="mailto:jiaojiaf@nvidia.com"> Email</a> &nbsp;/&nbsp;
                 <a href="https://github.com/sbyebss">GitHub</a> &nbsp;/&nbsp;
                 <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID">Google Scholar</a> &nbsp;/&nbsp;
@@ -97,7 +99,10 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Selected Publications</h2>
+              <div style="display:flex;justify-content:space-between;align-items:center;">
+                <h2 style="margin:0;">Selected Publications</h2>
+                <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" style="color:#666;text-decoration:none;font-size:14px;">See Google Scholar for the full list of publications →</a>
+              </div>
             </td>
           </tr>
         </table>
@@ -114,7 +119,8 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
-              {{post.authors}}
+              {% assign highlighted_authors = post.authors | replace: "Jiaojiao Fan", "<strong>Jiaojiao Fan</strong>" %}
+              {{highlighted_authors}}
 
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
