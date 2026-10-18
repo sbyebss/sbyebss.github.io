@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Cosmos 3: Omnimodal World Models for Physical AI"
+date: 2026-05-31 12:00:00 +00:00
+categories: research
+authors: "NVIDIA"
+venue: "White paper"
+arxiv: "https://arxiv.org/abs/2606.02800"
+code: "https://github.com/NVIDIA/cosmos"
+website: "https://research.nvidia.com/labs/cosmos-lab/cosmos3/"
+image: "/images/cosmos3.png"
+---
+
+Cosmos 3 is an omnimodal foundation model that connects understanding, generation, simulation, and action through a shared world model spanning text, images, video, audio, and actions.

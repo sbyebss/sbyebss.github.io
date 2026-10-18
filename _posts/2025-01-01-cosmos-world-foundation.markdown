@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cosmos World Foundation Model Platform for Physical AI"
+title: "Cosmos 1: Cosmos World Foundation Model Platform for Physical AI"
 date: 2025-01-01 12:00:00 +00:00
 categories: research
 authors: "NVIDIA"
